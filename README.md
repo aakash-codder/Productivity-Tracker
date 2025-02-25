@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/productivity-tracker.git
+git clone https://github.com/aakassh-codder/productivity-tracker.git
 
 Navigate to the project folder:
 
